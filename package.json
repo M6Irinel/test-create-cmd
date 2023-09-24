@@ -1,12 +1,15 @@
 {
   "name": "m7irinel-test",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "Pachetto create_file react component, solo per studio, è un TEST",
   "main": "index.js",
   "scripts": {
-    "create_file": "node ./index.js"
+    "file": "node ./index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
