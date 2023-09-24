@@ -1,0 +1,11 @@
+import React from "react";
+
+const [fileName] = (props) => {
+  return (
+    <>
+      ...component
+    </>
+  )
+};
+
+export default [fileName];
